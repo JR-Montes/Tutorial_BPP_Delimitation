@@ -1,4 +1,4 @@
-## Tutorial para delimitación de especies con BBP (Bayesian Phylogenetics and Phylogeography)
+## Tutorial para delimitación de especies con BBP (Bayesian Phylogenetics and Phylogeography) utilizando datos multi locus en el género Pinus
 
 ___
 
