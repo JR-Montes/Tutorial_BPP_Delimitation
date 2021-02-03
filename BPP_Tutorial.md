@@ -130,7 +130,10 @@ Interface gráfic de ![Minimalist BPP](https://github.com/JR-Montes/Tutorial_BPP
 
 #### **Paso 2** Asignar individuos a especies
 
-![Step 2]()
+![Step 2](https://github.com/JR-Montes/Tutorial_BPP_Delimitation/blob/main/Step_2.png)
+
+
+**Nota**: Aquí debes asignar el epíteto de las especies a los individuos. Ejemplo, cembroides a cem. Eso significa que el programa va a asignar el nombre cembroides a todos aquellos individuos que inicien con las lestras cem en tu lista de individuos
 
 
 
