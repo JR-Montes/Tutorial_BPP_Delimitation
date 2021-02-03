@@ -137,7 +137,12 @@ Interface gráfica de Minimalist BPP
 
 **Nota**: Aquí debes asignar el epíteto de las especies a los individuos. Ejemplo, *cembroides* (name of species) **+** *cem* (regular expression). Eso significa que el programa va a asignar el nombre *cembroides* a todos aquellos individuos que inicien con las lestras *cem* en tu lista de individuos
 
+#### **Paso 3** Elegir estimar árbol de especies y/o delimitación de especies antes de descargar el archivo
 
+![](https://github.com/JR-Montes/Tutorial_BPP_Delimitation/blob/main/Step%203.png)
+
+
+**Nota** En el paso 3 Tú puedes activar (1) o desactivar (0) las casillas para delimitar especies y/o contruir árboles de especies. También puedes cambiar el valor de burnin, el número de réplicas, la frecuencia de muestreo, etc. También es importante mencionar que puedes dejar el árbol de especies que Minimalist BPP contruye o puedes estimar el tuyo en ASTRAL o SVDquartets y pegarlo en el archivo.ctl cuando lo edites en Textwrangler o Sublimetext. 
 
 #### Archivo control descargado
 
