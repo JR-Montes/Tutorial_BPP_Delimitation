@@ -21,7 +21,7 @@ Por José Rubén Montes y Cristian Cervantes
 |**B.** Hipótesis de delimitación (asignación de individuos a especies)| cem_opt _20 _bppmap.txt  |
 |**C.** Árbol de especies en formato NEWICK| species_tree.nwk |
 
-Ejemplo del archivo **species_bpp.txt.**
+Ejemplo del archivo **cem_opt _20 _bpp.txt.**
 
 ```
 
@@ -47,7 +47,7 @@ Ejemplo del archivo **species_bpp.txt.**
 
 
 
-Ejemplo del archivo **individuals_Imap.txt.**
+Ejemplo del archivo **cem_opt _20 _bppmap.txt.**
 
 ```
 ariKF30   aristata
