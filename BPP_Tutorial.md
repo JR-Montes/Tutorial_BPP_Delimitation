@@ -120,7 +120,9 @@ speciestree = 1 * speciestree pSlider ExpandRatio ShrinkRatio
 
 El archvio control se puede generar de manera fácil una vez que cuentas con el archivo de secuencias.txt. Para generar el archivo vamos a utilizar el programa en línea [minimalist BPP](https://brannala.github.io/bpps/#/) desarrollado por B. Rannala. Minimalist BPP solo necesita el archivo de las secuencias para crear el individual_Imap.txt y el arcivo.ctl.
 
-Interface gráfica de ![Minimalist BPP](https://github.com/JR-Montes/Tutorial_BPP_Delimitation/blob/main/Captura%20de%20pantalla%202021-01-31%20a%20la(s)%2022.52.02.png)
+Interface gráfica de Minimalist BPP
+
+![Minimalist BPP](https://github.com/JR-Montes/Tutorial_BPP_Delimitation/blob/main/Captura%20de%20pantalla%202021-01-31%20a%20la(s)%2022.52.02.png)
 
 
 
