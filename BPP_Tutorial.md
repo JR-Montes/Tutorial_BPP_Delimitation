@@ -141,7 +141,7 @@ Interface gráfica de Minimalist BPP
 
 #### Archivo control descargado
 
-El archivo lo puedes abrir en Textwrangler o Sublime text para editarlo si lo consideras necesario o tienes información extra que agregar.
+El archivo control (.ctl) lo puedes abrir en Textwrangler o Sublime text para editarlo si lo consideras necesario o tienes información extra que agregar.
 
 ```
 	seed = -1 
