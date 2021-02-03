@@ -135,7 +135,7 @@ Interface gráfica de Minimalist BPP
 ![Step 2](https://github.com/JR-Montes/Tutorial_BPP_Delimitation/blob/main/Step_2.png)
 
 
-**Nota**: Aquí debes asignar el epíteto de las especies a los individuos. Ejemplo, cembroides a cem. Eso significa que el programa va a asignar el nombre cembroides a todos aquellos individuos que inicien con las lestras cem en tu lista de individuos
+**Nota**: Aquí debes asignar el epíteto de las especies a los individuos. Ejemplo, *cembroides* (name of species) **+** *cem* (regular expression). Eso significa que el programa va a asignar el nombre *cembroides* a todos aquellos individuos que inicien con las lestras *cem* en tu lista de individuos
 
 
 
