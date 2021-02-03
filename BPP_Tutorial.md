@@ -139,9 +139,9 @@ Interface gráfica de Minimalist BPP
 
 
 
+#### Archivo control descargado
 
-
-Ejemplo del archivo control generado por Minimalist BPP.
+El archivo lo puedes abrir en Textwrangler o Sublime text para editarlo si lo consideras necesario o tienes información extra que agregar.
 
 ```
 	seed = -1 
@@ -178,6 +178,10 @@ Ejemplo del archivo control generado por Minimalist BPP.
 
 ```
  
+**Nota** E símbolo * en el archivo de texto plano tiene el mismo uso que los corchetes "[]" o "#". Es decir, lo que se encuentre dentro o delante de esos símbolos no es tomado en cuenta por el programa.
+
+
+
 
 #### I. Se recomienda leer el [manual](https://hal.archives-ouvertes.fr/hal-02536475/document) para entender esta opción:
 
